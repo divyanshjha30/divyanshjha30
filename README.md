@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies and striving to get better at my craft
 - 🌱 I’m currently learning intermediate data structures and algorithms
 - 💞️ I’m looking to collaborate on beginner to intermediate level projects
-- 📫 How to reach me email: divyanshjha30@gmail.com
+- 📫 How to reach me email: (https://www.linkedin.com/in/divyansh-jha-1124b4227/)
 
 <!---
 divyanshjha30/divyanshjha30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
