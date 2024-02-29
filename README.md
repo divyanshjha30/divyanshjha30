@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @divyanshjha30
-- 👀 I’m interested in learning new technologies and striving to get better at my craft
-- 🌱 I’m currently learning intermediate data structures and algorithms
-- 💞️ I’m looking to collaborate on beginner to intermediate level projects
+- 🌱 I’m currently learning tailwind css
+- 💞️ I’m looking to collaborate on intermediate level projects
 - 📫 How to reach me : (https://www.linkedin.com/in/divyanshjha30/)
 
 <!---
